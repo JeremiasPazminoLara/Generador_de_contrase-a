@@ -8,4 +8,4 @@ asi mismo permite evaluar el nivel de seguridad de la contraseña generada y cop
 Para ejecutar el programa en la terminal:
 
 ```bash
-python main.py
+python trabajo_autonomo_1.0.py
